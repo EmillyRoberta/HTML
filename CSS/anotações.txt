@@ -1,0 +1,6 @@
+flex-direction = muda a direção e a ordem dos elementos.
+justify-content = altera os elementos na horizontal.
+align-items = muda verticalmente.
+target="_blank" = abrir o link em outra aba
+
+https://docs.emmet.io/cheat-sheet/ Comandos para facilitar a vida
